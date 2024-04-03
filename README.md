@@ -23,7 +23,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,vscode,linux,bash,git,github,angular,latex" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,vscode,linux,bash,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=angular,md,obsidian,latex,clion,idea,pycharm,docker,apple,discord" />
 <br/>
 <hr/>
 
@@ -48,6 +49,5 @@
 
 <br/><br/>
 
-<hr/>
 
 
