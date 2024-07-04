@@ -8,7 +8,7 @@
 
 <div align="center">
   
- 🌱 I’m currently learning **Angular**
+ 🌱 I’m currently working in **web developing**
 
 💬 Ask me about **C, C++, Mock Servers ... or anything [here](https://github.com/pabloseijo/pabloseijo/issues)**
 
