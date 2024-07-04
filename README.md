@@ -10,7 +10,7 @@
   
  🌱 I’m currently learning **Angular**
 
-💬 Ask me about **C, C++, OS ... or anything [here](https://github.com/pabloseijo/pabloseijo/issues)**
+💬 Ask me about **C, C++, Mock Servers ... or anything [here](https://github.com/pabloseijo/pabloseijo/issues)**
 
 ⚡ Fun fact **The longest break Oda took from One Piece was 4 weeks.**
 
