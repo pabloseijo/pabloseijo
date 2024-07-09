@@ -8,7 +8,7 @@
 
 <div align="center">
   
- 🌱 I’m currently working in **web developing**
+ 🌱 I’m currently working in **web developing** at ***STGO***
 
 💬 Ask me about **C, C++, Mock Servers ... or anything [here](https://github.com/pabloseijo/pabloseijo/issues)**
 
