@@ -8,8 +8,8 @@
 
 <div align="center">
   
- 🌱 I’m currently working in **web developing** at ***STGO***
-
+🌱 I’m currently doing an intership in **web developing** at **[STGO](https://stgo.es/)**
+ 
 💬 Ask me about **C, C++, Mock Servers ... or anything [here](https://github.com/pabloseijo/pabloseijo/issues)**
 
 ⚡ Fun fact **The longest break Oda took from One Piece was 4 weeks.**
