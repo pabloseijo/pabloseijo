@@ -8,7 +8,7 @@
 
 <div align="center">
   
-🌱 I’m currently doing an intership in **web developing** at **[STGO](https://stgo.es/)**
+🌱 I’m currently doing an internship in web development at **[STGO](https://stgo.es/)**
  
 💬 Ask me about **C, C++, Mock Servers ... or anything [here](https://github.com/pabloseijo/pabloseijo/issues)**
 
