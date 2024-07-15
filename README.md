@@ -30,7 +30,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,vscode,linux,bash,git,github" /><br>
-    <img src="https://skillicons.dev/icons?i=angular,md,obsidian,latex,clion,idea,pycharm,docker,apple,discord" />
+    <img src="https://skillicons.dev/icons?i=react,angular,md,obsidian,latex,clion,idea,pycharm,docker,apple,discord" />
 <br/>
 <hr/>
 
