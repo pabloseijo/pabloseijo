@@ -8,7 +8,7 @@
 
 <div align="center">
   
-🌱 I’m currently doing an internship in web development at **[STGO](https://stgo.es/)**
+🌱 I’m currently studying Computer Engineering at **[Universidad de Santiago de Compostela]([https://www.usc.gal/es])**
  
 💬 Ask me about **C, C++, Mock Servers ... or anything [here](https://github.com/pabloseijo/pabloseijo/issues)**
 
