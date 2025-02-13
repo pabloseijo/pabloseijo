@@ -8,9 +8,9 @@
 
 <div align="center">
   
-🌱 I’m currently studying Computer Engineering at **[Universidad de Santiago de Compostela]([https://www.usc.gal/es])**
+🌱 I’m currently studying Computer Engineering at **[Universidad de Santiago de Compostela]([https://www.usc.gal/es])** and working as a System Adminstrator at **[NS Centro de Psicoterapia y Trauma](https://nataliaseijo.com/)**
  
-💬 Ask me about **C, C++, Mock Servers ... or anything [here](https://github.com/pabloseijo/pabloseijo/issues)**
+💬 Ask me about **C, Networks, Sytems ... or anything [here](https://github.com/pabloseijo/pabloseijo/issues)**
 
 ⚡ Fun fact **The longest break Oda took from One Piece was 4 weeks.**
 
