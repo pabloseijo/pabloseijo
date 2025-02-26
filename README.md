@@ -24,6 +24,8 @@
   
 </div>
 
+
+
 <h2 align="center"> 🚀 Featured Project: BigFive </h2> 
 
 <div align="center">
@@ -36,7 +38,8 @@
 
 </div>
 
- <hr/>
+
+
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -44,7 +47,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,vscode,linux,bash,git,github" /><br>
     <img src="https://skillicons.dev/icons?i=react,angular,md,obsidian,latex,clion,idea,pycharm,docker,apple,discord" />
 <br/>
-<hr/>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -54,7 +57,6 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
