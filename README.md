@@ -24,6 +24,18 @@
   
 </div>
 
+<h2 align="center"> 🚀 Featured Project: BigFive </h2> 
+
+<div align="center">
+  
+🎯 **Worked on an exciting project analyzing personality traits using the Big Five Model!**   
+🛠️ **Tech Stack Used:** React, Vite, Tailwindcss, Python...
+📈 **Impact:** Improved efficiency, enhanced UI, and optimized performance.  
+
+🔗 Check it out here 👉 **[BigFive Repository](https://github.com/pablolobat0/bigFive)**  
+
+</div>
+
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
