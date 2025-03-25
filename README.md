@@ -25,13 +25,26 @@
 </div>
 
 
+<h2 align="center"> 🚀 Featured Projects: </h2> 
+    
+<h3 align="center"> Medication Tracker </h3> 
 
-<h2 align="center"> 🚀 Featured Project: BigFive </h2> 
+<div align="center">
+  
+🎯 **Built an innovative app to help users manage and track their medication schedules effectively!**  
+🛠️ **Tech Stack Used:** React Native, Python, MongoDB, Docker  
+📈 **Impact:** Improved treatment adherence, minimized medication errors, and delivered a clean, user-friendly interface.  
+
+🔗 Check it out here 👉 **[Medication Tracker Repository](https://github.com/pabloseijo/Medication-Tracker)**  
+
+</div>
+
+<h3 align="center"> BigFive </h3> 
 
 <div align="center">
   
 🎯 **Worked on an exciting project analyzing personality traits using the Big Five Model!**   
-🛠️ **Tech Stack Used:** React, Vite, Tailwindcss, Python...
+🛠️ **Tech Stack Used:** React, Vite, Tailwindcss, Python... </br>
 📈 **Impact:** Improved efficiency, enhanced UI, and optimized performance.  
 
 🔗 Check it out here 👉 **[BigFive Repository](https://github.com/pablolobat0/bigFive)**  
@@ -45,7 +58,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,vscode,linux,bash,git,github" /><br>
-    <img src="https://skillicons.dev/icons?i=react,angular,md,obsidian,latex,clion,idea,pycharm,docker,apple,discord" />
+    <img src="https://skillicons.dev/icons?i=react,angular,md,obsidian,latex,clion,idea,pycharm,docker,apple," />
 <br/>
 
 
@@ -55,6 +68,8 @@
   
   <br/><br/><br/>
 </div>
+
+[![pabloseijo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pabloseijo&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
