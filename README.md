@@ -8,7 +8,7 @@
 
 <div align="center">
   
-🌱 I’m currently studying Computer Engineering at **[Universidad de Santiago de Compostela]([https://www.usc.gal/es])** and working as a System Adminstrator at **[NS Centro de Psicoterapia y Trauma](https://nataliaseijo.com/)**
+🌱 I’m currently studying Computer Engineering at **[Universidad de Santiago de Compostela]([https://www.usc.gal/es])** and I'm the CEO of **[Keltera Studio](https://keltera.es/)**
  
 💬 Ask me about **C, Networks, Sytems ... or anything [here](https://github.com/pabloseijo/pabloseijo/issues)**
 
